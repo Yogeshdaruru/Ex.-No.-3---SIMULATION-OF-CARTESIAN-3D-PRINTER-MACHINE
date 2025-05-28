@@ -1,10 +1,10 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+# Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE: 09-05-2025
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
 
-![Screenshot 2024-12-12 133544](https://github.com/user-attachments/assets/7ac8cb9d-8503-429f-9f38-b2b67546bb68)
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/69572917-1257-45d7-bf57-ff48a6e5a711)
 
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
@@ -48,14 +48,22 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
 
-![WhatsApp Image 2024-12-12 at 13 47 17_6afc42fb](https://github.com/user-attachments/assets/f8473529-0972-4fbd-8286-33a975e876b8)
-![WhatsApp Image 2024-12-12 at 13 47 31_70e2e891](https://github.com/user-attachments/assets/e378c904-7f7f-4e4c-ac5b-d61a21683381)
-![WhatsApp Image 2024-12-12 at 13 48 45_9b9540e3](https://github.com/user-attachments/assets/5ed46dee-aa28-4248-acb6-c583145c8f3f)
-![WhatsApp Image 2024-12-12 at 13 47 48_d5a24244](https://github.com/user-attachments/assets/29e3fdbf-a3e9-4680-9882-25672e90e9c7)
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
 
-![Screenshot 2024-12-12 133544](https://github.com/user-attachments/assets/13987d90-8738-4749-b614-d8388f0e7858)
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
+
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+
 ## Output:
+![Screenshot 2025-05-02 161641](https://github.com/user-attachments/assets/2d01c810-cc3f-4bdc-8b98-81b615e9cb17)
+
+
+### Name:Dharuru yogesh
+### Register Number:212224230063
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
